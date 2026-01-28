@@ -1,0 +1,6 @@
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\PomocneKlase\bin\Debug\PomocneKlase.dll
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\PomocneKlase\bin\Debug\PomocneKlase.pdb
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\PomocneKlase\obj\Debug\PomocneKlase.csproj.AssemblyReference.cache
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\PomocneKlase\obj\Debug\PomocneKlase.csproj.CoreCompileInputs.cache
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\PomocneKlase\obj\Debug\PomocneKlase.dll
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\PomocneKlase\obj\Debug\PomocneKlase.pdb

@@ -1,0 +1,11 @@
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Client\bin\Debug\Client.exe.config
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Client\bin\Debug\Client.exe
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Client\bin\Debug\Client.pdb
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Client\bin\Debug\PomocneKlase.dll
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Client\bin\Debug\PomocneKlase.pdb
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Client\obj\Debug\Client.exe
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Client\obj\Debug\Client.pdb
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Client\obj\Debug\Client.exe.config

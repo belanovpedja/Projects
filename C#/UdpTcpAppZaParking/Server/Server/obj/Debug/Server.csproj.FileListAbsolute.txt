@@ -1,0 +1,11 @@
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Server\Server\bin\Debug\Server.exe.config
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Server\Server\bin\Debug\Server.exe
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Server\Server\bin\Debug\Server.pdb
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Server\Server\obj\Debug\Server.exe
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Server\Server\obj\Debug\Server.pdb
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Server\Server\obj\Debug\Server.exe.config
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Server\Server\bin\Debug\PomocneKlase.dll
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Server\Server\bin\Debug\PomocneKlase.pdb
+C:\Users\s7ped\OneDrive\Desktop\projekat\MREZEproj\Server\Server\obj\Debug\Server.csproj.Up2Date
